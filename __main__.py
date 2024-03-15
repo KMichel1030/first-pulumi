@@ -1,8 +1,8 @@
 import pulumi
 import pulumi_cloudflare as cloudflare
 
-EMAIL = "moonstar95515@gmail.com"
-API_KEY = "06daf27736fedcae6de384f70d529d129f2ae"
+# EMAIL = "moonstar95515@gmail.com"
+# API_KEY = "06daf27736fedcae6de384f70d529d129f2ae"
 
 # cloudflare.config.set("cloudflare:email", EMAIL)
 # cloudflare.config.set("cloudflare:apiKey", API_KEY)
